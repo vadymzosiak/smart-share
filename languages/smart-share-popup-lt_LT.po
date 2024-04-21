@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 12:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Galingas įrankis, kuris skatina jūsų svetainės nuorodų dalinimąsi."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Pasirinkite pop-up panelės ir modalinio langelio fono spalvą."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Pasirinkite klausimo ir piktogramų spalvą darbalaukio versijoje."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Kopijuoti puslapio nuorodą"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Delsti po paspaudimo ant NE mygtuko"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Rodyti pop-up panelę, kai puslapis užsikrauna po tam tikro skaičiaus "
+"sekundžių."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Pradinė delsa"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Galbūt"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Ne"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Puslapio nuoroda nukopijuota"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Atkurti numatytuosius nustatymus"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Įrašyti pakeitimus"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Nerodyti pop-up panelės tam tikrą nurodytą minutę."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Teksto spalva"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Ar norite išsaugoti ar bendrinti nuorodą?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Taip"

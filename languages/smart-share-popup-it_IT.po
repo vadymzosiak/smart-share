@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 07:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"Un potente strumento che aumenta la condivisione del link del tuo sito web."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Scegli un colore di sfondo per il pannello popup e la finestra modale."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr ""
+"Scegliere un colore per il testo della domanda e le icone nella versione "
+"desktop."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Copia link della pagina"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Ritardo dopo il clic sul pulsante \"NO\""
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Visualizza un pannello popup una volta che la pagina è stata caricata dopo "
+"un numero specificato di secondi."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Ritardo iniziale"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Forse"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "No"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Link della pagina copiato"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Ripristina impostazioni predefinite"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr ""
+"Interrompi la visualizzazione del pannello popup per il numero specificato "
+"di minuti."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Vuoi salvare o condividere?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Sì"

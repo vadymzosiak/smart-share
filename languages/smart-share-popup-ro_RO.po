@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 08:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"Un instrument puternic care îmbunătățește partajarea linkului site-ului."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Culoarea de fundal"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Alegeți o culoare de fundal pentru panoul pop-up și fereastra modală."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr ""
+"Alegeți o culoare pentru întrebare și pictograme în versiunea pentru desktop."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Copierea Link-ului Paginii"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Întârziere după apăsarea butonului „Nu”"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Afișați un panou pop-up după ce pagina s-a încărcat, după un număr "
+"specificat de secunde."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Întârziere inițială"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Poate"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nu"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Linkul Paginii a fost Copiat"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Restabilire setări implicite"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Salvați modificările"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Setări"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Opriți afișarea panoului pop-up pentru numărul specificat de minute."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Culoarea Textului"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Doriți să salvați sau să partajați?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Da"

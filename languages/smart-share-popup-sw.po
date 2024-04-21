@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 10:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swahili\n"
+"Language: sw\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Zana imara ambayo inakuza kushiriki kiungo cha tovuti yako."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Rangi ya Mandharinyuma"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr ""
+"Chagua rangi ya mandharinyuma ya kidirisha ibukizi na kidirisha cha modali."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Chagua rangi ya swali na ikoni katika toleo la eneo-kazi."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Nakili Kiungo cha Ukurasa"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Kuchelewa Baada ya Kubofya Kitufe cha 'HAPANA'"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Onyesha kidirisha ibukizi mara ukurasa unapopakia baada ya idadi maalum ya "
+"sekunde."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Ucheleweshaji wa Awali"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Labda"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "HAPANA"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Kiungo cha Ukurasa Kimenakiliwa"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Rejesha mipangilio chaguo-msingi"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Hifadhi mabadiliko"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Mipangilio"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Acha kuonyesha kidirisha ibukizi kwa idadi maalum ya dakika."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Rangi ya maandishi"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Je, ungependa kuhifadhi au kushiriki kiungo?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Ndio"

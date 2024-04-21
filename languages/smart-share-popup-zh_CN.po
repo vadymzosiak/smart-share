@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 09:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "一个强大的工具，可以提升您网站链接的社交分享效果。"
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "为弹出面板和模态窗口选择背景颜色。"
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "选择桌面版本中问题和图标的颜色。"
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "复制页面链接"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "点击“否”按钮后延迟"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr "在页面加载后的指定秒数内显示弹出面板。"
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "初始延迟"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "可能"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "否"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "页面链接已复制"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "恢复默认设置"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "保存更改"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "设置"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "停止显示弹出面板指定的分钟数。"
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "您是否要保存或分享？"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "是"

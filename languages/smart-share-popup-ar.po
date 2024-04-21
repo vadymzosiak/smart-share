@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 09:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "أداة قوية تعزز مشاركة رابط موقع الويب الخاص بك."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "اختر لونًا للوحة الظهور ونافذة النموذج المنبثق."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "اختر لونًا للسؤال والرموز في النسخة المكتبية."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "نسخ رابط الصفحة"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "التأخير بعد النقر على زر \"لا\""
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr "عرض لوحة منبثقة بمجرد تحميل الصفحة بعد عدد محدد من الثواني."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "التأخير الأولي"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "ربما"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "لا"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "تم نسخ رابط الصفحة"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "استعادة الإعدادات الافتراضية"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "توقف عن عرض لوحة المنبثق لعدد معين من الدقائق."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "لون النص"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "هل ترغب في حفظ أو مشاركة الرابط؟"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "نعم"

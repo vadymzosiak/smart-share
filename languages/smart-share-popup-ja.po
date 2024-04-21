@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 10:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "ウェブサイトのリンク共有を強化する堅牢なツールです。"
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "背景色"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "ポップアップパネルとモーダルウィンドウの背景色を選択します。"
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "デスクトップバージョンでの質問とアイコンの色を選択します。"
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "ページリンクをコピー"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "「いいえ」ボタンクリック後の遅延"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr "指定された秒数後にページが読み込まれた後にポップアップパネルを表示します。"
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "初期遅延"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "たぶん"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "いいえ"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "ページリンクがコピーされました"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "デフォルトの設定に戻す"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "設定"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "指定された分数の間、ポップアップパネルを表示しないようにします。"
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "リンクを保存または共有しますか？"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "はい"

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 09:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"एक शक्तिशाली उपकरण जो आपकी वेबसाइट लिंक को सोशल मीडिया पर शेयर करने में मदद "
+"करता है।"
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "पृष्ठभूमि रंग"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "पॉपअप पैनल और मोडल विंडो के लिए एक पृष्ठभूमि रंग चुनें।"
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "डेस्कटॉप संस्करण में प्रश्न और आइकन के लिए रंग चुनें।"
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "पृष्ठ लिंक की प्रतिलिपि"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "'नहीं' बटन के क्लिक के बाद विलंब"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"निर्दिष्ट सेकंडों में पृष्ठ लोड होने के बाद एक पॉपअप पैनल प्रदर्शित करें।"
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "प्रारंभिक विलंब"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "शायद"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "नहीं"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "पृष्ठ लिंक की प्रतिलिपि हो गई है"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "डिफ़ॉल्ट सेटिंग्स को पुनर्स्थापित करें"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "निर्दिष्ट मिनटों में पॉपअप पैनल प्रदर्शन रोकें।"
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "पाठ का रंग"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "क्या आप लिंक सहेजना या साझा करना चाहते हैं?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "हाँ"

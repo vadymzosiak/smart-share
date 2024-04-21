@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 10:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Alat yang kuat untuk meningkatkan berbagi tautan situs web Anda."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Pilih warna latar belakang untuk panel popup dan jendela modal."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Pilih warna untuk pertanyaan dan ikon dalam versi desktop."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Salin Tautan Halaman"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Tunda Setelah Klik Tombol 'TIDAK'"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Tampilkan panel popup setelah halaman dimuat setelah jumlah detik yang "
+"ditentukan."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Tunda Awal"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Mungkin"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "TIDAK"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Tautan Halaman Disalin"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Pulihkan pengaturan default"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Hentikan menampilkan panel popup selama jumlah menit yang ditentukan."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Apakah Anda ingin menyimpan atau berbagi tautan? "
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Ya"

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 11:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"Ένα αξιόπιστο εργαλείο που ενισχύει τον κοινοποιημό του συνδέσμου της "
+"ιστοσελίδας σας."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr ""
+"Επιλέξτε ένα χρώμα φόντου για το πλαίσιο εμφάνισης και το παράθυρο modal."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr ""
+"Επιλέξτε ένα χρώμα για την ερώτηση και τις εικονίδια στην έκδοση για "
+"επιφάνειες εργασίας."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Αντιγραφή συνδέσμου σελίδας"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Καθυστέρηση μετά το κλικ στο κουμπί 'ΟΧΙ'"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Εμφανίστε ένα πλαίσιο εμφάνισης μόλις έχει φορτωθεί η σελίδα μετά από "
+"καθορισμένα δευτερόλεπτα."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Αρχική καθυστέρηση"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Ίσως"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Όχι"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Ο σύνδεσμος της σελίδας έχει αντιγραφεί"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Επαναφορά προεπιλεγμένων ρυθμίσεων"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Διακοπή εμφάνισης του πλαισίου εμφάνισης για τα καθορισμένα λεπτά."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Θα θέλατε να αποθηκεύσετε ή να κοινοποιήσετε τον σύνδεσμο;"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Ναι"

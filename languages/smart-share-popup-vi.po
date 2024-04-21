@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 10:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"Một công cụ mạnh mẽ giúp tăng cường việc chia sẻ liên kết trang web của bạn."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Chọn màu nền cho bảng thông báo và cửa sổ modal."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Chọn màu cho câu hỏi và biểu tượng trong phiên bản máy tính để bàn."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Sao chép liên kết trang"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Độ trễ sau khi nhấp vào nút 'KHÔNG'"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Hiển thị bảng thông báo sau khi trang đã tải xong sau một số giây nhất định."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Độ trễ ban đầu"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Có thể"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Không"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Liên kết trang đã được sao chép"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Khôi phục cài đặt mặc định"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Ngừng hiển thị bảng thông báo sau một số phút nhất định."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Màu văn bản"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Bạn có muốn lưu trữ hoặc chia sẻ liên kết? "
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Vâng"

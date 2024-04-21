@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 12:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latvian\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n%10==0||( n%100 >= 11 && n%100<=19)? 0 :"
+"(n%10==1 && n%100!=11 ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Spēcīgs rīks, kas uzlabo jūsu vietnes saites koplietošanu."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Fona krāsa"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Izvēlieties fona krāsu uznirstošajam panelim un modālajam logam."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Izvēlieties krāsu jautājumam un ikonām darbvirsmas versijā."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Kopēt lapas saiti"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Aizkavēt pēc pogas NĒ noklikšķa"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Parādīt uznirstošo paneli, kad ir notikusi lapas ielāde, pēc norādītas laika "
+"perioda."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Sākotnējā aizkave"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Varbūt"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nē"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Lapas saite nokopēta"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Atjaunot noklusējuma iestatījumus"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Saglabāt izmaiņas"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Pārtraukt uznirstošā paneļa parādīšanu noteiktu minūšu skaitu laikā."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Teksta krāsa"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Vai vēlaties saglabāt vai koplietot saiti?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Jā"

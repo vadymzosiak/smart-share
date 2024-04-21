@@ -1,0 +1,227 @@
+:root {
+    --smart-share-background: #060D0D;
+    --smart-text-color: #fff;
+}
+
+#fotozSmartPopup {
+    width: 100vw !important;
+}
+
+#fotozSmartPopup .smart-popup-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: var(--smart-share-background);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: none;
+    z-index: 9999;
+    text-align: center;
+}
+
+#fotozSmartPopup .smart-popup-question {
+    font-size: 18px;
+    margin-bottom: 8px;
+    display: inline-block;
+    color: var(--smart-text-color);
+}
+
+#fotozSmartPopup .smart-popup-buttons {
+    display: inline-block;
+    text-align: center;
+    margin-top: 6px;
+}
+
+#fotozSmartPopup .smart-popup-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 16px !important;
+}
+
+#fotozSmartPopup .smart-popup-yes {
+    background-color: #28a745;
+}
+
+#fotozSmartPopup .smart-popup-maybe {
+    background-color: #007bff;
+}
+
+#fotozSmartPopup .smart-popup-no {
+    background-color: #e74c3c;
+}
+
+@keyframes slideUpAnimation {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInLeftToRight {
+    from {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+#fotozSmartPopup .smart-popup-container.show {
+    display: block;
+    animation: slideUpAnimation 0.5s ease;
+}
+
+/* Media query for desktops */
+@media (min-width: 768px) {
+    #fotozSmartPopup .smart-popup-question {
+        margin-right: 10px;
+    }
+}
+
+#fotozSmartPopup .fotoz-smart-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 9999;
+}
+
+#fotozSmartPopup .modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--smart-share-background);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#fotozSmartPopup .modal-close {
+    position: absolute;
+    top: 2px;
+    right: 12px;
+    cursor: pointer;
+    color: var(--smart-text-color);
+}
+
+#fotozSmartPopup .modal-body {
+    padding: 20px;
+}
+
+#fotozSmartPopup .modal-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#fotozSmartPopup .modal-icons-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+#fotozSmartPopup .modal-icon {
+    margin: 10px;
+}
+
+#fotozSmartPopup .full-width-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: #007bff; 
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+#fotozSmartPopup .full-width-button.copied {
+    background-color: #28a745; 
+}
+
+#fotozSmartPopup .full-width-button.copied:hover {
+    background-color: #218838; 
+}
+
+#fotozSmartPopup svg.modal-icon {
+    fill: var(--smart-text-color);
+}
+
+#facebookLink:hover svg.modal-icon {
+    fill: #1877F2; 
+}
+
+#twitterLink:hover svg.modal-icon {
+    fill: #1DA1F2; 
+}
+
+#pinterestLink:hover svg.modal-icon {
+    fill: #BD081C; 
+}
+
+#linkedinLink:hover svg.modal-icon {
+    fill: #0A66C2; 
+}
+
+#telegramLink:hover svg.modal-icon {
+    fill: #0088CC; 
+}
+
+#whatsappLink:hover svg.modal-icon {
+    fill: #25D366; 
+}
+
+#fotozSmartPopup .slide-out-bottom {
+    transform: translateY(100%);
+    opacity: 0;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+#fotozSmartPopup .fixed-circle {
+    position: fixed;
+    bottom: 12px;
+    left: 12px;
+    width: 42px;
+    height: 42px;
+    background-color: var(--smart-share-background);
+    border-radius: 50%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#fotozSmartPopup .circle-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#fotozSmartPopup .circle-icon svg {
+    width: 18px;
+    height: 18px;
+    fill: var(--smart-text-color);
+}
+
+

@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:31+0000\n"
+"PO-Revision-Date: 2023-07-24 16:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr ""
+"Solidne narzędzie, które usprawnia udostępnianie linków do Twojej strony."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Wybierz kolor tła dla panelu wyskakującego i okna modalnego."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Wybierz kolor dla pytania i ikon w wersji desktopowej."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Kopiuj link do strony"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Opóźnienie po kliknięciu przycisku NIE"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Wyświetla wyskakujący panel po załadowaniu strony po określonej liczbie "
+"sekund."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Wstępne opóźnienie"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Może"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nie"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Skopiowano link do strony"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Przywróć ustawienia domyślne"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr ""
+"Zatrzymuje wyświetlanie wyskakującego panelu na określoną liczbę minut."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Chcesz zapisać lub udostępnić?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Tak"

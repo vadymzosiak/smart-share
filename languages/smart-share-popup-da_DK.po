@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Et robust værktøj, der forbedrer deling af din hjemmesidelink."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Vælg en baggrundsfarve til popup-panelet og modalvinduet."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Vælg en farve til spørgsmålet og ikonerne i desktop-versionen."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Kopier side link"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Forsinkelse efter 'NEJ' knap klik"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Vis et popup-panel, når siden er indlæst efter et bestemt antal sekunder."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Indledende forsinkelse"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Måske"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nej"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Side link kopieret"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Gendan standardindstillinger"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Stop visning af popup-panelet i et bestemt antal minutter."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Tekstfarve"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Vil du gemme eller dele linket?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Ja"

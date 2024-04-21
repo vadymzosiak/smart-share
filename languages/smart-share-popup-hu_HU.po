@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 12:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Egy erős eszköz, amely fokozza webhelye linkjének megosztását."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Válasszon háttérszínt a felugró panelhez és a modális ablakhoz."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Válasszon színt a kérdéshez és az ikonokhoz az asztali verzióban."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Oldal link másolása"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Késleltetés a „NEM” gomb után"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Jelenítse meg a felugró panelt az oldal betöltése után meghatározott "
+"másodpercek múlva."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Kezdeti késleltetés"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Talán"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nem"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Oldal link másolva"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Az alapértelmezett beállítások visszaállítása"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Változtatások mentése"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Beállítások"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Hagyja abba a felugró panel megjelenítését a megadott percig."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Szöveg színe"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Szeretné elmenteni vagy megosztani a linket?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Igen"

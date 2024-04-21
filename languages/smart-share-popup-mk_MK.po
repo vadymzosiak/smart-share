@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 12:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Macedonian\n"
+"Language: mk_MK\n"
+"Plural-Forms: nplurals=2; plural=( n % 10 == 1 && n % 100 != 11 ) ? 0 : 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Моќен алатка што зголемува споделувањето на вашиот веб-сајт линк."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Боја на позадина"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr ""
+"Изберете боја на позадина за панелот на искачачки прозорец и модалниот "
+"прозорец."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr ""
+"Изберете боја за прашањето и иконите во верзијата за настолни компјутери."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Копирај страница линк"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Каснење по кликнување на Не копче"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr ""
+"Прикажете го панелот на искачачки прозорец откако страницата ќе се вчита по "
+"одреден број секунди."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Почетно каснење"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Можеби"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Не"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Линкот на страницата е копиран"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Повратете ги стандардните поставки"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Зачувајте ги промените"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Поставки"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr ""
+"Престанете да го прикажувате панелот на искачачки прозорецот во одреден број "
+"минути."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Боја на текстот"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Дали сакате да го зачувате или споделите линкот?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Да"

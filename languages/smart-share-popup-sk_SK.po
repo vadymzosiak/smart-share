@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Share Popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-24 07:55+0000\n"
+"PO-Revision-Date: 2023-07-25 13:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: smart-share-popup"
+
+#. Description of the plugin
+msgid "A robust tool that boosts sharing your website link."
+msgstr "Robustný nástroj, ktorý zvyšuje zdieľanie odkazu na váš webový portál."
+
+#: settings.php:15
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+#: settings.php:24
+msgid "Choose a background color for the popup panel and modal window."
+msgstr "Vyberte farbu pozadia pre vyskakovacie okno a modálny panel."
+
+#: settings.php:37
+msgid "Choose a color for the question and icons in the desktop version."
+msgstr "Vyberte farbu pre otázku a ikony vo verzii pre stolné počítače."
+
+#: smart-share-popup.php:96
+msgid "Copy Page Link"
+msgstr "Kopírovať odkaz na stránku"
+
+#: settings.php:53
+msgid "Delay After NO Button Click"
+msgstr "Omeškanie po kliknutí na tlačidlo „Nie“"
+
+#: settings.php:49
+msgid ""
+"Display a popup panel once the page has loaded after a specified number of "
+"seconds."
+msgstr "Zobrazte vyskakovacie okno po načítaní stránky po určitý počet sekúnd."
+
+#: settings.php:41
+msgid "Initial Delay"
+msgstr "Počiatočné omeškanie"
+
+#: smart-share-popup.php:45
+msgid "Maybe"
+msgstr "Možno"
+
+#: smart-share-popup.php:44
+msgid "No"
+msgstr "Nie"
+
+#: smart-share-popup.php:96
+msgid "Page Link Copied"
+msgstr "Odkaz na stránku bol skopírovaný"
+
+#: settings.php:70
+msgid "Restore default settings"
+msgstr "Obnoviť predvolené nastavenia"
+
+#: settings.php:67
+msgid "Save changes"
+msgstr "Uložiť zmeny"
+
+#: smart-share-popup.php:144 settings.php:9
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: settings.php:61
+msgid "Stop displaying the pop-up panel for the specified number of minutes."
+msgstr "Prestaňte zobrazovať vyskakovacie okno po určitý počet minút."
+
+#: settings.php:28
+msgid "Text Color"
+msgstr "Farba textu"
+
+#: smart-share-popup.php:41
+msgid "Would you like to save or share?"
+msgstr "Chcete uložiť alebo zdieľať odkaz?"
+
+#: smart-share-popup.php:43
+msgid "Yes"
+msgstr "Áno"
